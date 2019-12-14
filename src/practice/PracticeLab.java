@@ -5,5 +5,6 @@ public class PracticeLab {
         System.out.println("Hello Kitty 3");
         System.out.println("Gabumon");
         System.out.println("Uzumaki");
+        System.out.println("Luufy");
     }
 }
